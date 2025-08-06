@@ -1,2 +1,3 @@
 # Diploma
-Izvorna koda programa, uporabljenega v diplomskem delu.
+Izvorna koda programa, uporabljenega v diplomskem delu.  
+Stran je še v izdelavi ...
